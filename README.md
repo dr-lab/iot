@@ -8,5 +8,5 @@ Iternet of Thing Discussion
 3. Protocols and Framework, Eclipse community http://iot.eclipse.org/tools.html
 4. Follow 1  https://ces.itnint.com/CES15/regonline/RegLogin.aspx
 5. Follow 2 http://www.globalsources.com/TRADESHOW/HONGKONG-ELECTRONICS.HTM 
-
+6. Discover your devices, Barcode or central registration server
 
